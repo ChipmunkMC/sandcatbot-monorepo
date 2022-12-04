@@ -1,0 +1,26 @@
+{
+  "bot": {
+    "username": "SandCatBot",
+    "host": "localhost",
+    "port": 25565
+  },
+  "online_mode": {
+    "accounts": [],
+    "enabled": false
+  },
+  "settings": {
+    "tune_speed": 80,
+    "colors_enabled": true,
+    "save_downloaded_songs": false,
+    "max_download_bytes": 10485760
+  },
+  "commands_perms": [
+    "usernames for trusted go here (insecure)"
+  ],
+  "eval": {
+    "perms": [
+      "usernames who can use eval (unsandboxed) go here (very insecure)"
+    ],
+    "enabled": false
+  }
+}
