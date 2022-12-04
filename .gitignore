@@ -1,0 +1,3 @@
+# ignore configs and modules
+*/config.json
+*/node_modules
